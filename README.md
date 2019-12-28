@@ -1,2 +1,2 @@
 # hello-world
-leraning git
+Learning GITHUB
